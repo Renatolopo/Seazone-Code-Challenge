@@ -12,7 +12,7 @@ Este projeto é parte do processo seletivo do programa de Estágio na [Seazone](
 - [Sobre os Dados](#sobre-os-dados)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como baixar o projeto](#como-baixar-o-projeto)
-- [Resolução](#resolução)
+
 
 ### Sobre o Projeto
 O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb, a fim de responder uma série de perguntas.
