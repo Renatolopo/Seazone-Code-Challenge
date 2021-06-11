@@ -1,6 +1,7 @@
 [<img src="https://www.seazone.com.br/wp-content/uploads/2020/12/seazone-logo-site-5-300x91.png"/>](https://seazone.com.br/)
 
 Feito por: Renato Lopo 
+
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Renatolopo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renatolopo/) 
 ## Seazone Code Challenge 
 
