@@ -45,6 +45,7 @@ Variável | Descrição
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
 
 
 ### Como baixar o projeto
