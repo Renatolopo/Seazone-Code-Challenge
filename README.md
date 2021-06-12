@@ -47,6 +47,7 @@ Variável | Descrição
 - [Jupyter Notebook](https://jupyter.org/)
 - [pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
 
 
 ### Como baixar o projeto
