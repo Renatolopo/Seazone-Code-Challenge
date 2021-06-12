@@ -4,6 +4,7 @@ Feito por: Renato Lopo
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Renatolopo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renatolopo/) 
 ## Seazone Code Challenge 
+[![GitHub](https://img.shields.io/github/license/Renatolopo/MonitorNoticia)](https://github.com/Renatolopo/Seazone-Code-Challenge/blob/main/LICENSE)
 
 Este projeto é parte do processo seletivo do programa de Estágio na [Seazone](https://seazone.com.br/).
 
