@@ -1,8 +1,10 @@
 [<img src="https://www.seazone.com.br/wp-content/uploads/2020/12/seazone-logo-site-5-300x91.png"/>](https://seazone.com.br/)
 
 Feito por: Renato Lopo 
+
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Renatolopo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renatolopo/) 
 ## Seazone Code Challenge 
+[![GitHub](https://img.shields.io/github/license/Renatolopo/MonitorNoticia)](https://github.com/Renatolopo/Seazone-Code-Challenge/blob/main/LICENSE)
 
 Este projeto é parte do processo seletivo do programa de Estágio na [Seazone](https://seazone.com.br/).
 
@@ -11,7 +13,7 @@ Este projeto é parte do processo seletivo do programa de Estágio na [Seazone](
 - [Sobre os Dados](#sobre-os-dados)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como baixar o projeto](#como-baixar-o-projeto)
-- [Resolução](#resolução)
+
 
 ### Sobre o Projeto
 O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb, a fim de responder uma série de perguntas.
@@ -44,6 +46,8 @@ Variável | Descrição
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
 
 
 ### Como baixar o projeto
