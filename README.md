@@ -54,6 +54,7 @@ Variável | Descrição
 
 ` git clone https://github.com/Renatolopo/Seazone-Code-Challenge`
 
+Os scripts devem ser executados usando [jupyter notebook](https://jupyter.org/) ou até mesmo pelo [Visual studio code](https://code.visualstudio.com/) com a extensão do Python instalada. 
 
 
 ---
